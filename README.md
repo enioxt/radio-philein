@@ -1,3 +1,9 @@
+<!-- MUDOU-PARA-O-CINCO 2026-10-15 -->
+> **Este repositório mudou para o cinco (15/10/2026).** A rádio agora mora na pasta pacotes/radio-philein do cinco, com o histórico deste repositório. Segue ao vivo em cinco.ia.br/radio.
+> Endereço novo: **https://github.com/enioxt/cinco/tree/main/pacotes/radio-philein**
+> Este aqui fica arquivado, só para leitura: o histórico continua inteiro aqui e nada foi apagado.
+> O EGOS agora tem dois repositórios: o **cinco** (público, github.com/enioxt/cinco) e o núcleo privado.
+
 > **MIGRAÇÃO EGOS — 2026-10-01**
 > Este repositório não é mais uma unidade canônica do EGOS.
 > Nenhum roadmap, status, porta de entrada ou intenção futura vive aqui.
